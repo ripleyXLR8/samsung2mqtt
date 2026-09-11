@@ -1,0 +1,7 @@
+certs/
+*.key
+*_fullchain.pem
+.env
+__pycache__/
+*.pyc
+.venv/
